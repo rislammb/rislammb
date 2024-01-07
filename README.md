@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rislammb
 - 👀 I’m interested in "web development"
-- 🌱 I’m currently learning "js, react, pwa"
+- 🌱 I’m currently learning "nextjs, reactjs, js"
 - 💞️ I’m looking to collaborate on "js, react"
 - 📫 Contact with me- rislammb@gmail.com
 
