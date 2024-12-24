@@ -5,6 +5,9 @@
 - 📫 Contact with me- rislammb@gmail.com
 
 # Practice project
+- [Next.js 15, Sanity, and Sentry Integrated Application](https://nextjs-15-cc.vercel.app/)
+- [Next.js E-Commerce App](https://nextjs-ecommerce-flomazone.vercel.app/)
+- [Next.js App Router Dashboard](https://nextjs-dashboard-rislammb.vercel.app/)
 - [React Track Zone App](https://fsa-track-zone.netlify.app/)
 - [React and Firebase Chat App](https://rislam-chat.web.app/)
 - [React Shopping List App - PWA](https://r-shopping.netlify.app/)
