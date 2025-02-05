@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on "js, react"
 - 📫 Contact with me- rislammb@gmail.com
 
-# Practice project
+### Practice project
 - [Next.js 15, Sanity, and Sentry Integrated Application](https://nextjs-15-cc.vercel.app/)
 - [Next.js E-Commerce App](https://nextjs-ecommerce-flomazone.vercel.app/)
 - [Next.js 15 Weather App](https://next-weather-app-ochre-omega.vercel.app/)
